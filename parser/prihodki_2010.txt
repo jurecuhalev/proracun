@@ -1,0 +1,86 @@
+SKUPAJ PRIHODKI (70+71+72+73+74+78)+(75+50)		12.333.046.786
+70	DAVČNI PRIHODKI		7.011.901.071
+700	Davki na dohodek in dobiček		1.752.938.135
+	7000	Dohodnina	1.027.995.910
+	7001	Davek od dohodkov pravnih oseb	724.942.226
+701	Prispevki za socialno varnost		55.833.713
+	7010	Prispevki zaposlenih	31.256.327
+	7011	Prispevki delodajalcev	20.958.355
+	7012	Prispevki samozaposlenih	2.643.875
+	7013	Ostali prispevki za socialno varnost	975.156
+702	Davki na plačilno listo in delovno silo		28.751.567
+	7021	Posebni davek na določene prejemke	28.751.567
+704	Domači davki na blago in storitve		5.067.251.961
+	7040	Davek na dodano vrednost	3.061.930.766
+	7041	Drugi davki na blago in storitve	151.000.000
+	7042	Trošarine (akcize)	1.505.283.404
+	7044	Davki na posebne storitve	136.171.310
+	7046	Letna dajatev za uporabo vozil v cestnem prometu	110.671.782
+	7047	Drugi davki na uporabo blaga in storitev	41.219.464
+	7048	Davki od prometa motornih vozil	60.975.236
+705	Davki na mednarodno trgovino in transakcije		104.622.309
+	7050	Carine	103.185.046
+	7051	Druge uvozne dajatve	1.437.263
+706	Drugi davki		2.503.385
+	7060	Drugi davki	2.503.385
+71	NEDAVČNI PRIHODKI		458.390.040
+710	Udeležba na dobičku in dohodki od premoženja		150.887.581
+	7100	Prihodki od udeležbe na dobičku in dividend ter presežkov prihodkov nad odhodki	46.000.300
+	7102	Prihodki od obresti	34.491.000
+	7103	Prihodki od premoženja	70.396.281
+711	Takse in pristojbine		78.640.442
+	7110	Sodne takse	44.079.705
+	7111	Upravne takse in pristojbine	34.560.737
+712	Globe in druge denarne kazni		75.864.424
+	7120	Globe in druge denarne kazni	75.864.424
+713	Prihodki od prodaje blaga in storitev		10.296.386
+	7130	Prihodki od prodaje blaga in storitev	10.296.386
+714	Drugi nedavčni prihodki		142.701.207
+	7141	Druginedavčniprihodki	142.701.207
+72	KAPITALSKI PRIHODKI		15.650.000
+720	Prihodki od prodaje osnovnih sredstev		14.326.062
+	7200	Prihodki od prodaje zgradb in prostorov	12.974.297
+	7201	Prihodki od prodaje prevoznih sredstev	1.104.144
+	7202	Prihodki od prodaje opreme	216.073
+	7203	Prihodki od prodaje drugih osnovnih sredstev	31.549
+722	Prihodki od prodaje zemljišč in neopredmetenih sredstev		1.323.937
+	7220	Prihodki od prodaje kmetijskih zemljišč in gozdov	11.360
+	7221	Prihodki od prodaje stavbnih zemljišč	1.312.577
+73	PREJETE DONACIJE		6.094.501
+730	Prejete donacije iz domačih virov		173.762
+	7300	Prejete donacije in darila od domačih pravnih oseb	173.762
+731	Prejete donacije iz tujine		5.920.739
+	7310	Prejete donacije in darila od tujih nevladnih organizacij in fundacij	2.318.653
+	7311	Prejete donacije in darila od tujih vlad in vladnih institucij	3.556.648
+	7312	Prejete donacije in darila od tujih pravnih oseb	45.437
+74	TRANSFERNI PRIHODKI		817.263
+740	Transferni prihodki iz drugihjavnofinančnih institucij		817.263
+	7400	Prejeta sredstva iz državnega proračuna	798.386
+	7402	Prejeta sredstva iz skladov socialnega zavarovanja	18.877
+78	PREJETA SREDSTVA IZ EVROPSKE UNIJE		1.154.710.540
+780	Predpristopna sredstva Evropske unije		5.119.744
+	7800	Prejeta sredstva PHARE	226.000
+	7801	Prejeta sredstva ISPA	4.893.744
+781	Prejeta sredstva iz proračuna EU za izvajanje skupne kmetijske politike		246.867.672
+	7810 Prejeta sredstva iz proračuna EU iz naslova tržnih ukrepov v kmetijstvu iz Evropskega kmetijskega jamstvenega in usmerjevalnega sklada - Jamstveni del (EAGGF - Guarantee Fund) in Evropskega kmetijskega jamstvenega sklada (EKJS)		9.643.858
+	7811 Prejeta sredstva iz proračuna EU iz naslova neposrednih plačil v kmetijstvu iz Evropskega kmetijskega jamstvenega in usmerjevalnega sklada - Jamstveni del (EAGGF - Guarantee Fund) in Evropskega kmetijskega jamstvenega sklada (EKJS)		87.942.000
+	7812 Prejeta sredstva iz proračuna EU iz naslova programa razvoja podeželja iz Evropskega kmetijskega jamstvenega in usmerjevalnega sklada - Jamstveni del (EAGGF - Guarantee Fund) in Evropskega kmetijskega sklada za razvoj podeželja (EKSRP)		149.281.814
+782	Prejeta sredstva iz proračuna EU za strukturno politiko		601.060.814
+	7821	Prejeta sredstva iz proračuna EU iz Evropskega sklada za regionalni razvoj (ERDF)	428.958.952
+	7822	Prejeta sredstva iz Evropskega socialnega sklada (ESF)	172.101.862
+783	Prejeta sredstva iz proračuna EU za kohezijsko politiko		265.641.825
+	7830	Prejeta sredstva iz Kohezijskega sklada (CF)	265.641.825
+784	Prejeta sredstva iz proračuna EU za izvajanje notranje politike		27.965.829
+	7841	Druga prejeta sredstva iz proračuna EU za izvajanje notranje politike	27.965.829
+786	Ostala prejeta sredstva iz proračuna Evropske unije		8.054.656
+	7860	Ostala prejeta sredstva iz proračuna EU	8.054.656
+75	PREJETAVRAČILA DANIH POSOJIL IN PRODAJA KAPITALSKIH DELEŽEV		63.710.000
+750	Prejeta vračila danih posojil		12.810.000
+	7500	Prejeta vračila danih posojil od posameznikov in zasebnikov	30.000
+	7501	Prejeta vračila danih posojil - od javnih skladov	9.280.000
+	7504	Prejeta vračila danih posojil od privatnih podjetij	3.500.000
+751	Prodaja kapitalskih deležev		50.000.000
+	7514	Sredstva, pridobljena z vračilom namenskega premoženja	50.000.000
+752	Kupnine iz naslova privatizacije		900.000
+	7520	Sredstva kupnin iz naslova privatizacije	900.000
+50	ZADOLŽEVANJE		3.621.773.371

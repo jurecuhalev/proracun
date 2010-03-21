@@ -1,0 +1,212 @@
+Hardware
+--------
+
+10001 Ekonomični osebni računalnik Osebni računalniki
+10002 Standardni osebni računalnik Osebni računalniki
+10003 Zmogljivejši osebni računalnik Osebni računalniki
+10004 Ostalo Osebni računalniki
+20001 Standardni prenosni računalnik Prenosni računalniki
+20002 Zmogljivejši prenosni računalnik Prenosni računalniki
+20003 Ostalo Prenosni računalniki
+30001 PDA Ročni računalniki
+30005 Ostalo Ročni računalniki
+40001 LCD zaslon 17 Računalniški zasloni
+40002 LCD zaslon 19 Računalniški zasloni
+40003 LCD zaslon 202 Računalniški zasloni
+40004 LCD zaslon 23 Računalniški zasloni
+40005 Ostalo Računalniški zasloni
+50002 Prenosni video prikazovalniki Prezentacijska oprema
+50003 Montažni (stropni, stenski,...) video prikazovalniki Prezentacijska oprema
+50004 Ostalo Prezentacijska oprema
+60001 Matrični tiskalniki Tiskalniška oprema
+60002 Laserski tiskalniki Tiskalniška oprema
+60003 Brizgalni tiskalniki Tiskalniška oprema
+60004 Multifunkcijske naprave Tiskalniška oprema
+60005 Ostalo Tiskalniška oprema
+70001 Optični čitalnik < A4 Optični čitalniki
+70002 Optični čitalnik  A4 Optični čitalniki
+70003 Optični čitalnik  A4 s podajalcem Optični čitalniki
+70004 Ostalo Optični čitalniki
+80001 DVD enote vseh vrst Periferna računalniška oprema
+
+
+Multimedia
+----------
+
+
+100001 Digitalni fotoaparati Oprema za podporo večpredstavnosti
+100006 Strojna in programska oprema za posredovanje večpredstavnostni h vsebin Oprema za podporo večpredstavnosti
+100007 Strojna in programska oprema za upravljanje z večpredstavnostnimi vsebinami Oprema za podporo večpredstavnosti
+100008 Videokonferenčna oprema Oprema za podporo večpredstavnosti
+100012 Pretvornik medija Oprema za podporo večpredstavnosti
+100016 Ostalo Oprema za podporo večpredstavnosti
+
+
+Network
+-------
+
+110008 Sonda Merilno preizkusna oprema in analizatorji protokolov
+120001 L2/L3/L4 Stikalna oprema Aktivna mrežna oprema
+120002 Modul za stikalno opremo Aktivna mrežna oprema
+120003 Izgradnja LAN omrežja Aktivna mrežna oprema
+120004 Optični pretvorniki Aktivna mrežna oprema
+120006 Kriptografski elementi Aktivna mrežna oprema
+120007 Ostalo Aktivna mrežna oprema
+130001 RAS strežnik do 100 uporabnikov Strežniki oddaljenega dostopa
+130002 RAS strežnik nad 100 uporabnikov Strežniki oddaljenega dostopa
+130006 Nadgradnja strežnika oddaljenega dostopa Strežniki oddaljenega dostopa
+130007 Ostalo Strežniki oddaljenega dostopa
+140007 Ostalo Modemi
+150004 Ostalo Komunikacijska oprema za satelitski prenos
+160002 Usmerjevalnik brezžični Usmerjevalniki
+160003 Usmerjevalnik od 4 do 16 vrat Usmerjevalniki
+160004 Usmerjevalnik večfunkcijski Usmerjevalniki
+160007 Nadgradnja programske opreme Usmerjevalniki
+160009 Nadgradnja pomnilnika RAM Usmerjevalniki
+160011 Ostalo Usmerjevalniki
+170005 Nadgradnja požarne pregrade - modul Požarne pregrade
+170009 Ostalo Požarne pregrade
+180002 Stikalo celično Transportna stikalna oprema
+180003 Stikalo z usmerjevalnikom Transportna stikalna oprema
+180006 Nadgradnja  - modul Transportna stikalna oprema
+180009 Nadgradnja  programske opreme Transportna stikalna oprema
+180010 Ostalo Transportna stikalna oprema
+
+290001 Ožičenje Pasivna mrežna oprema
+290002 Ožičenje optično Pasivna mrežna oprema
+290004 Razdelilne omare Pasivna mrežna oprema
+290008 Prehodi Pasivna mrežna oprema
+290011 Povezovalni kabli Pasivna mrežna oprema
+290012 Povezovalni kabli optični Pasivna mrežna oprema
+
+350002 Vzdrževanje in podpora mrežnih storitev Vzdrževanje in podpora
+350003 Vzdrževanje in podpora komunikacijskega omrežja Vzdrževanje in podpora
+350004 Vzdrževanje, podpora in upravljanje komunikacijskega omrežja Vzdrževanje in podpora
+
+350007 Vzdrževanje in podpora pasivne mrežne opreme Vzdrževanje in podpora
+350008 Vzdrževanje in podpora aktivne mrežne opreme Vzdrževanje in podpora
+
+400014 Aktivna mrežna oprema Vzdrževanje strojne opreme
+400015 Usmerjevalniki Vzdrževanje strojne opreme
+400018 Transportna stikalna oprema Vzdrževanje strojne opreme
+400022 Pasivna mrežna oprema Vzdrževanje strojne opreme
+
+
+Serverji
+--------
+
+190002 Dvoprocesorski enojedrni strežnik Visoko zmogljivi in razpoložljivi eno- ali več procesorski strežniki,  ter delovne postaje posebnega pomena
+190003 Enoprocesordki dvojedrni stržnik Visoko zmogljivi in razpoložljivi eno- ali več procesorski strežniki,  ter delovne postaje posebnega pomena
+190006 ätiriprocesorski dvojedrni strežnik Visoko zmogljivi in razpoložljivi eno- ali več procesorski strežniki,  ter delovne postaje posebnega pomena
+190008 Večprocesorski večjedrni strežnik Visoko zmogljivi in razpoložljivi eno- ali več procesorski strežniki,  ter delovne postaje posebnega pomena
+190009 Strežnik baziran na strežniških rezinah Visoko zmogljivi in razpoložljivi eno- ali več procesorski strežniki,  ter delovne postaje posebnega pomena
+190010 Večprocesorski strežnik z več kanalnimi vmesniki za periferne naprave Visoko zmogljivi in razpoložljivi eno- ali več procesorski strežniki,  ter delovne postaje posebnega pomena
+190011 Ostalo Visoko zmogljivi in razpoložljivi eno- ali več procesorski strežniki,  ter delovne postaje posebnega pomena
+200001 »italnik vrstne (angl:bar) kode Periferna oprema, eno ali več procesorskih strežnikov ter delovnih postaj posebnega pomena
+200003 čitalnik pametnih kartic Periferna oprema, eno ali več procesorskih strežnikov ter delovnih postaj posebnega pomena
+200007 USB pomnilnik Periferna oprema, eno ali več procesorskih strežnikov ter delovnih postaj posebnega pomena
+200012 Tračna knjižnica Periferna oprema, eno ali več procesorskih strežnikov ter delovnih postaj posebnega pomena
+200017 Ostalo Periferna oprema, eno ali več procesorskih strežnikov ter delovnih postaj posebnega pomena
+220001 Tračne enote DLT Enote za varnostno shranjevanje podatkov
+220002 Magnetooptične knjižnice Enote za varnostno shranjevanje podatkov
+220004 Tračne knjižnice Enote za varnostno shranjevanje podatkov
+220005 Ostalo Enote za varnostno shranjevanje podatkov
+230001 Aplikativni strežniki Strežniki
+230002 Datotečni strežniki Strežniki
+230003 Ostalo Strežniki
+240003 Sistem SAN nad 2 TB Sistemi za shranjevanje podatkov
+240005 Sistem NAS nad 2 TB Sistemi za shranjevanje podatkov
+240006 Sistem diskovni baziran na iSCSI Sistemi za shranjevanje podatkov
+240007 Nadgradnja sistema SAN Sistemi za shranjevanje podatkov
+250001 UPS do 5 KVA Sistemi za neprekinjeno napajanje
+250002 UPS do 16 KVA Sistemi za neprekinjeno napajanje
+250003 UPS do 100 KVA Sistemi za neprekinjeno napajanje
+250004 UPS do 240 KVA Sistemi za neprekinjeno napajanje
+250012 Nadgradnja za UPS Sistemi za neprekinjeno napajanje
+260004 Nadzorni sistem za fizične merilne naprave i n senzorje (temperatura, vodostaj, gibanje) Nadzorni sistemi
+260007 Ostalo Nadzorni sistemi
+300001 Ostalo Ostala strojna  računalniška oprema
+350005 Vzdrževanje in podpora informacijskih sistemov Vzdrževanje in podpora
+400012 Strežniki in strežniški sistemi Vzdrževanje strojne opreme
+400006 Tiskalniška oprema Vzdrževanje strojne opreme
+
+Software, licence, vzdrzevanje
+--------
+
+310001 Vzdrževanje licenčnih aplikativnih informacijskih sistemov vzdrževanje licenc
+310002 Dopolnjevanje informacijskih aplikativnih sistemov vzdrževanje licenc
+310003 Vzdrževanje kritičnih aplikativnih sistemov vzdrževanje licenc
+310004 Vzdrževanje operacijskih sistemov vzdrževanje licenc
+310005 Vzdrževanje licenčne programske opreme vzdrževanje licenc
+310006 Vzdrževanje licenčne programske opreme s pravico do popravkov, varnostnih popravkov in nadgradenj vzdrževanje licenc
+310007 Vzdrevanje licenčne programske opreme s pravico do popravkov, varnostnih popravkov, nadgradenj in novih verzij vzdrževanje licenc
+310007 Vzdrževanje licenčne programske opreme s pravico do popravkov, varnostnih popravkov, nadgradenj in novih verzij vzdrževanje licenc
+310008 Nadgradnja informacijskega sistema na novo verzijo aplikacijskega ali operacijskega sistema ali sistema za upravljanje z zbirko podatkov vzdrževanje licenc
+310009 Ostalo vzdrževanje licenc
+320001 Sistem za celovito upravljanje in izvajanje večnivojske podpore uporabnikov Klicni center, center za podporo uporabnikom angl:help desk; Kontaktni center
+320004 Strošek storitve uporabe klicnega centra Klicni center, center za podporo uporabnikom angl:help desk; Kontaktni center
+320006 Ostalo Klicni center, center za podporo uporabnikom angl:help desk; Kontaktni center
+330001 Priprava strokovne tehnične dokumentacije Razpis
+330002 Priprava pravnih podlag in navodil uporabnikov Razpis
+350001 Vzdrževanje in podpora delovnih postaj Vzdrževanje in podpora
+
+350006 Vzdrževanje in podpora naprav za neprekinjeno napajanje Vzdrževanje in podpora
+350009 Vzdrževanje in preizkus naprav neprekinjenega napajanja Vzdrževanje in podpora
+350010 Vzdrževanje in preizkus naprav za klimatizacijo Vzdrževanje in podpora
+350011 Ostalo Vzdrževanje in podpora
+360001 Analiza uporabniških zahtev Analiza, načrtovanje in dokumentiranje
+360002 Analiza varnostnih zahtev Analiza, načrtovanje in dokumentiranje
+360003 Analiza procesov Analiza, načrtovanje in dokumentiranje
+360004 Analiza zahtev za arhitekturo informacijskega sistema Analiza, načrtovanje in dokumentiranje
+360006 Analiza informacijskega sistema s stališča informacijske varnosti Analiza, načrtovanje in dokumentiranje
+360008 Načrtovanje izvedbe informacijskega sistema Analiza, načrtovanje in dokumentiranje
+360010 Načrtovanje podatkovne zbirke Analiza, načrtovanje in dokumentiranje
+360011 Načrtovanje poslovnih procesov Analiza, načrtovanje in dokumentiranje
+360012 Izdelava projektne naloge Analiza, načrtovanje in dokumentiranje
+360013 Izdelava projekta za izvedbo Analiza, načrtovanje in dokumentiranje
+360014 Izdelava študije izvedljivosti Analiza, načrtovanje in dokumentiranje
+360020 Ostalo Analiza, načrtovanje in dokumentiranje
+370001 Razvoj IS Razvoj in implementacija
+370002 Testiranje IS Razvoj in implementacija
+370003 Implementacija IS Razvoj in implementacija
+380001 Ostalo Dokumentacija
+390001 Podpora delovnim mestom Podpora (CPU)
+390002 Podpora strežniškemu okolje Podpora (CPU)
+390003 Podpora aplikativnemu okolje Podpora (CPU)
+390005 Ostalo Podpora (CPU)
+400001 Osebni računalniki Vzdrževanje strojne opreme
+400002 Prenosni računalniki Vzdrževanje strojne opreme
+400004 Računalniški zasloni Vzdrževanje strojne opreme
+
+400007 Optični čitalniki Vzdrževanje strojne opreme
+400010 Oprema za podporo večpredstavnosti Vzdrževanje strojne opreme
+
+400013 Sistemi in enote za varnostno shranjevanje podatkov Vzdrževanje strojne opreme
+
+400020 Avtentikacijski sistemi Vzdrževanje strojne opreme
+400023 Ostala strojna računalniška oprema Vzdrževanje strojne opreme
+400024 Ostalo Vzdrževanje strojne opreme
+410001 Vzdrževanje aplikativnih informacijskih sistemov Vzdrževanje programske opreme
+410002 Dopolnjevanje informacijskih aplikativnih sistemov Vzdrževanje programske opreme
+410003 Vzdrževanje kritičnih aplikativnih sistemov Vzdrževanje programske opreme
+410004 Vzdrževanje programske opreme s pravico do popravkov, varnostnih popravkov in nadgradenj Vzdrževanje programske opreme
+410005 Vzdrževanje programske opreme s pravico do popravkov, varnostnih popravkov, nadgradenj in novih verzij Vzdrževanje programske opreme
+410006 Nadgradnja informacijskega sistema na novo verzijo aplikacijskega ali operacijskega sistema ali sistema za upravljanje z zbirko podatkov Vzdrževanje programske opreme
+410007 Ostalo Vzdrževanje programske opreme
+
+Zunanje storitve, izobrazevanje
+----------
+
+420001 Zunanje izvajanje storitev na področju upravljanja, Zunanje izvajanje storitev
+420002 Zunanje izvajanje storitev na področju sistemske administracije Zunanje izvajanje storitev
+420004 Ostalo Zunanje izvajanje storitev
+430001 Zunanje izvajanje nalog iz področja komunikacij Zunanje izvajanje nalog
+430003 Zunanje izvajanje nalog iz področja izgradnje Zunanje izvajanje nalog
+430006 Zunanje izvajanje nalog iz področja operaterskih nalog Zunanje izvajanje nalog
+430007 Zunanje izvajanje nalog iz področja pomoči uporabnikom Zunanje izvajanje nalog
+430009 Ostalo Zunanje izvajanje nalog
+440001 Izvajanje strokovnega izobraževanja Izobraževanje (na daljavo, uporabnikov, specialistično)
+440002 Izvajanje uporabniškega izobraževanja Izobraževanje (na daljavo, uporabnikov, specialistično)
+440006 Ostalo Izobraževanje (na daljavo, uporabnikov, specialistično)
+450003 Storitve uničenja medijev Ostale storitve in oprema
+450005 Storitve zavarovanja informacijske in komunikacijske opreme Ostale storitve in oprema

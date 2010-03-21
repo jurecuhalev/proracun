@@ -1,0 +1,116 @@
+II. SKUPAJ ODHODKI (40+41+42+43+45)+(44+55)			12.333.046.786
+40	TEKOČI ODHODKI		2.219.950.747
+400	Plače in drugi izdatki zaposlenim		1.063.698.035
+	4000	Plače in dodatki	899.320.806
+	4001	Regres za letni dopust	29.931.420
+	4002	Povračila in nadomestila	101.745.452
+	4003	Sredstva za delovno uspešnost	10.862.483
+	4004	Sredstva za nadurno delo	12.134.547
+	4005	Plače za delo nerezidentov po pogodbi	8.234
+	4009	Drugi izdatki zaposlenim	9.695.094
+401	Prispevki delodajalcev za socialno varnost		191.839.083
+	4010	Prispevek za pokojninsko in invalidsko zavarovanje	111.138.714
+	4011	Prispevek za zdravstveno zavarovanje	62.996.420
+	4012	Prispevek za zaposlovanje	551.110
+	4013	Prispevek za starševsko varstvo	907.409
+	4015	Premije kolektivnega dodatnega pokojninskega zavarovanja, na podlagi ZKDPZJU	16.245.429
+402	Izdatki za blago in storitve		895.068.682
+	4020	Pisarniški in splošni material in storitve	135.367.643
+	4021	Posebni material in storitve	221.618.529
+	4022	Energija, voda, komunalne storitve in komunikacije	67.241.968
+	4023	Prevozni stroški in storitve	44.951.074
+	4024	Izdatki za službena potovanja	21.316.287
+	4025	Tekoče vzdrževanje	203.417.389
+	4026	Poslovne najemnine in zakupnine	66.808.893
+	4027	Kazni in odškodnine	8.833.005
+	4029	Drugi operativni odhodki	125.513.895
+409	Rezerve		69.344.948
+	4090	Splošna proračunska rezervacija	39.132.846
+	4091	Proračunska rezerva	11.337.478
+	4093	Sredstva za posebne namene	18.874.624
+41	TEKOČI TRANSFERI		5.635.522.379
+410	Subvencije		655.815.199
+	4100	Subvencije javnim podjetjem	64.040.487
+	4101	Subvencije finančnim institucijam	4.354.618
+	4102	Subvencije privatnim podjetjem in zasebnikom	587.420.094
+411	Transferi posameznikom in gospodinjstvom		1.365.179.446
+	4110	Transferi nezaposlenim	209.735.040
+	4111	Družinski prejemki in starševska nadomestila	644.066.832
+	4112	Transferi za zagotavljanje socialne varnosti	177.070.087
+	4113	Transferi vojnim invalidom, veteranom in žrtvam vojnega nasilja	81.226.449
+	4117	Štipendije	125.796.556
+	4119	Drugi transferi posameznikom	127.284.482
+412	Transferi neprofitnim organizacijam in ustanovam		116.364.051
+	4120	Tekoči transferi neprofitnim organizacijam in ustanovam	116.364.051
+413	Drugi tekoči domači transferi		3.474.430.329
+	4130	Tekoči transferi občinam	11.730.525
+	4131	Tekoči transferi v sklade socialnega zavarovanja	1.447.131.275
+	4132	Tekoči transferi v javne sklade	9.615.238
+	4133	Tekoči transferi v javne zavode	1.892.020.621
+	4134	Tekoči transferi v državni proračun	740.993
+	4135	Tekoča plačila drugim izvajalcem javnih služb, ki niso posredni proračunski uporabniki	82.181.542
+	4136	Tekoči transferi v javne agencije	31.010.135
+414	Tekoči transferi v tujino		23.733.354
+	4140	Tekoči transferi mednarodnim institucijam	13.599.094
+	4141	Tekoči transferi tujim vladam in vladnim institucijam	3.737
+	4142	Tekoči transferi neprofitnim organizacijam v tujini	1.459.820
+	4143	Drugi tekoči transferi v tujino	8.670.703
+42	INVESTICIJSKI ODHODKI		737.395.432
+420	Nakup in gradnja osnovnih sredstev		737.395.432
+	4200	Nakup zgradb in prostorov	13.748.849
+	4201	Nakup prevoznih sredstev	12.162.572
+	4202	Nakup opreme	70.542.340
+	4203	Nakup drugih osnovnih sredstev	574.513
+	4204	Novogradnje, rekonstrukcije in adaptacije	308.515.560
+	4205	Investicijsko vzdrževanje in obnove	120.832.666
+	4206	Nakup zemljišč in naravnih bogastev	35.612.796
+	4207	Nakup nematerialnega premoženja	46.727.620
+	4208	Študije o izvedljivosti projektov, projektna dokumentacija, nadzor in investicijski inženiring	128.678.516
+43	INVESTICIJSKI TRANSFERI		932.875.686
+431	Investicijski transferi pravnim in fizičnim osebam, ki niso proračunski uporabniki		394.308.113
+	4310	Investicijski transferi neprofitnim organizacijam in ustanovam	13.781.673
+	4311	Investicijski transferi javnim podjetjem in družbam, ki so v lasti države ali občin	130.653.990
+	4313	Investicijski transferi privatnim podjetjem	197.417.418
+	4314	Investicijski transferi posameznikom in zasebnikom	48.869.273
+	4315	Investicijski transferi drugim izvajalcem javnih služb, ki niso posredni proračunski uporabniki	3.555.759
+	4316	Investicijski transferi v tujino	30.000
+432	Investicijski transferi proračunskim uporabnikom		538.567.573
+	4320	Investicijski transferi občinam	402.865.814
+	4321	Investicijski transferi javnim skladom in agencijam	5.228.468
+	4322	Investicijski transferi v državni proračun	0
+	4323	Investicijski transferi javnim zavodom	130.473.291
+45	PLAČILA SREDSTEV V PRORAČUN EVROPSKE UNIJE		437.805.832
+450	Plačila sredstev v proračun Evropske unije		437.805.832
+	4500	Plačila tradicionalnih lastnih sredstev v proračun Evropske unije	77.400.000
+	4501	Plačila sredstev v proračun EU iz naslova davka na dodano vrednost	54.309.750
+	4502	Plačila sredstev v proračun EU iz naslova bruto nacionalnega dohodka	283.964.010
+	4503	Plačila sredstev v proračun EU iz naslova popravka v korist Združenega Kraljestva	19.643.216
+	4504	Plačila sredstev v proračun EU iz naslova popravkov BND vira v korist Kraljevin Nizozemske in Švedske	2.488.856
+44	DANA POSOJILA IN POVEČANJE KAPITALSKIH DELEŽEV		126.993.141
+440	Dana posojila		72.134.656
+	4404	Dana posojila privatnim podjetjem	53.500.000
+	4409	Plačila zapadlih poroštev	18.634.656
+441	Povečanje kapitalskih deležev in finančnih naložb		36.980.000
+	4410	Povečanje kapitalskih deležev v javnih podjetjih in družbam, ki so v lasti države ali občin	30.000.000
+	4414	Povečanje kapitalskih deležev v tujino	6.980.000
+442	Poraba sredstev kupnin iz naslova privatizacije		6.793.357
+	4420	Dana posojila iz sredstev kupnin	3.000.000
+	4421	Sredstva kupnin, razporejena v javne sklade in agencije	1.493.357
+	4422	Povečanje kapitalskih deležev države iz sredstev kupnin	2.300.000
+443	Povečanje namenskega premoženjavjavnih skladih in drugih pravnih osebah javnega prava, ki imajo premoženje v svoji lasti		11.085.128
+	4430	Povečanje namenskega premoženja v javnih skladih	11.085.128
+55	ODPLAČILA DOLGA		2.242.503.569
+550	Odplačila domačega dolga		1.217.064.684
+	5501	Odplačila kreditov poslovnim bankam	54.657.820
+	5504	Odplačila glavnice vrednostnih papirjev, izdanih na domačem trgu	1.162.406.864
+551	Odplačila dolga v tujino		515.283.314
+	5510	Odplačila dolga mednarodnim finančnim institucijam	15.283.314
+	5514	Odplačila glavnice vrednostnih papirjev, izdanih na tujih trgih	500.000.000
+553	Plačila domačih obresti (403)		413.011.954
+	5531	Plačila obresti od kreditov - poslovnim bankam (4031)	4.648.133
+	5532	Plačila obresti od kreditov - drugim finančnim institucijam (4032)	1.118.801
+	5533	Plačila obresti od kreditov - drugim domačim kreditodajalcem (4033)	1.000.000
+	5534	Plačila obresti od vrednostnih papirjev izdanih na domačem trgu (4034)	406.245.019
+554	Plačila tujih obresti (404)		97.143.617
+	5540	Plačila obresti od kreditov - mednarodnim finančnim institucijam (4040)	2.956.117
+	5544	Plačila obresti od vrednostnih papirjev, izdanih na tujih trgih (4044)	94.187.500
