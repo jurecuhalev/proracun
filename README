@@ -1,0 +1,10 @@
+Vizualizacija proracuna Republike Slovenije za 2010
+--
+
+Projekt uporablja jit.org in python.
+
+Uporaba:
+
+cd parser
+./build.sh
+
